@@ -184,5 +184,4 @@ class TradutorPremiumApp(ctk.CTk):
 
 if __name__ == "__main__":
     app = TradutorPremiumApp()
-    app.iconbitmap("icone.ico")
     app.mainloop()
